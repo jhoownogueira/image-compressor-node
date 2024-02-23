@@ -1,0 +1,16 @@
+{
+  "name": "compressor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node redimensionar-imagens.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.2"
+  }
+}
